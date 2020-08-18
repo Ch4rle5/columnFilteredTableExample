@@ -1,0 +1,3 @@
+[submodule "libColumnFilteredTable"]
+	path = libColumnFilteredTable
+	url = https://github.com/Ch4rle5/libColumnFilteredTable.git

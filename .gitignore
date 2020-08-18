@@ -1,0 +1,6 @@
+*.pro.*
+moc_*
+*.o
+Makefile
+*~
+*.qm
